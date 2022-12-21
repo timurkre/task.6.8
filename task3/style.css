@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(77, 81, 143);
+}
 .trafficLight {
     width: 100px;
     height: 100px;
