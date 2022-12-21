@@ -1,0 +1,10 @@
+# Editor directirias and ffiles
+.DS_Store
+.idea
+*.suo
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.sw?
+Footer
